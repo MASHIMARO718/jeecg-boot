@@ -21,7 +21,7 @@
     props: {
       title: {
         type: String,
-        default: 'Jeecg-Boot Pro',
+        default: '襄汾博远小学',
         required: false
       },
       showTitle: {

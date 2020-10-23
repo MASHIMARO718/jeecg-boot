@@ -50,10 +50,10 @@
             <span>账户设置</span>
           </router-link>
         </a-menu-item>
-        <a-menu-item key="3"  @click="systemSetting">
-           <a-icon type="tool"/>
-           <span>系统设置</span>
-        </a-menu-item>
+<!--        <a-menu-item key="3"  @click="systemSetting">-->
+<!--           <a-icon type="tool"/>-->
+<!--           <span>系统设置</span>-->
+<!--        </a-menu-item>-->
         <a-menu-item key="4" @click="updatePassword">
           <a-icon type="setting"/>
           <span>密码修改</span>
